@@ -1,8 +1,8 @@
 {
   "name": "css-class-alphabetical-sort",
   "displayName": "CSS Class Alphabetical Sort",
-  "description": "A basic extension to order css name classes in your project. Designed for people with toc.",
-  "version": "0.0.2",
+  "description": "A basic extension to order css name classes in your project. Designed for people with OCD.",
+  "version": "0.0.3",
   "publisher": "Devlagom",
   "icon": "images/icon.png",
   "repository": {
