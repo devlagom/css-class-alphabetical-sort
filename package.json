@@ -2,7 +2,13 @@
   "name": "css-class-alphabetical-sort",
   "displayName": "CSS Class Alphabetical Sort",
   "description": "A basic extension to order css name classes in your project. Designed for people with toc.",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "Devlagom",
+  "icon": "images/icon.png",
+  "repository": {
+    "url": "https://github.com/devlagom/css-class-alphabetical-sort",
+    "type": "public"
+  },
   "engines": {
     "vscode": "^1.94.0"
   },
