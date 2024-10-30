@@ -16,12 +16,17 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:html",
     "onLanguage:htm",
-    "onLanguage:svelte",
+    "onLanguage:html",
     "onLanguage:javascript",
+    "onLanguage:javascriptreact",
+    "onLanguage:typescript",
+    "onLanguage:typescriptreact",
+    "onLanguage:vue",
+    "onLanguage:vue-html",
     "onLanguage:php",
-    "onLanguage:blade"
+    "onLanguage:blade",
+    "onLanguage:svelte"
   ],
   "main": "./out/extension.js",
   "contributes": {
